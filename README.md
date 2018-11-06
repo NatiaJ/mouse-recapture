@@ -1,1 +1,1 @@
-mouse-recapture
+Files in this folder contain data and code for conducting a Cormack-Jolly-Seber capture-recapture analysis of survival of experimental deer mouse populations. Use file "mr.R" to call other files in the folder.  
